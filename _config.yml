@@ -5,6 +5,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
  This website contains various statistical tools (i.e., excel calculators, modified R functions, learning guides) that may be of use to some. All work is either my own or modified work that I have cited. These tools were originally created for teaching and research purposes. I tend only to develop calculators and modify code as is needed for my work, and I try not to recreate the wheel. Due to this, these tools tend to serve rarer statistical tasks than the ones most often employed. 
   <br><br>
+  [Behavioral Science Focused Resume](/pdf/Schumacher_Resume_BS.pdf)
   <a href="https://www.linkedin.com/in/john-schumacher-15a608196/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
