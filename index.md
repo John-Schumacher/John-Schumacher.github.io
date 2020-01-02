@@ -14,7 +14,7 @@
 
 ---
 
- ## Modified R Functions
+## Modified R Functions
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
