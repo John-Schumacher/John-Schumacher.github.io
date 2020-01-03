@@ -1,8 +1,13 @@
 ## Excel Calculators
 
 ---
-### Category Name 1 
-[Project 2 Title](/excel/JNQ.xlsx?raw=true)
+### Johnshon-Neyman Ins. Slope of Quadratic Effect
+This excel files allows you to find the region 
+of significance for the instaneous slope of a quadratic effect
+in a regression. It also allows you to find the point
+estimate effect and confidence interval along any value of X.
+The math for this calculator was adapted from Miller, 
+Stromeyer, and Schwieterman (2013).[Download](/excel/JNQ.xlsx?raw=true)
 
 
 
