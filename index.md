@@ -73,23 +73,17 @@ This document contains R code to get the empirical logit plot for Y on X when Y 
 ## Learning Guides
 
 ---
-### Johnshon-Neyman Instantaneous Slope of Quadratic Effect
-This excel file provides the region 
-of significance for the instaneous slope of a quadratic effect
-in a regression. It also allows you to find the point
-estimate effect and confidence interval along any value of X.
-The math for this calculator was adapted from Miller, 
-Stromeyer, and Schwieterman (2013). [Download](/excel/JNQ.xlsx?raw=true)
+### Getting Started with R
+This document provides general instructions for using R when running statistics. It is intendend as a guide to be used before discussing relevant analyses. [Download](/Word/R.docx?raw=true)
 
  <br>
 
-### Two by Two Contingency Table Relevant Statistics
-This excel file provides relevant statistics for a 2 by 2 contigency table
-(e.g., Chi, Yule, RR, OR, Fischer's Exact Probability, etc.). Only change yellow highlighted cells. All equations are lifted from Agresti (2013).  
-[Download](/excel/TwobyTwo.xlsx?raw=true)
+### Getting Started with SAS
+This document provides general instructions for using SAS when running statistics. It is intendend as a guide to be used before discussing relevant analyses. [Download](/Word/SAS.docx?raw=true)
+ <br>
 
+ More to Come Soon . . .
 
-## The End
 
 
 
