@@ -2,8 +2,10 @@
 
 ---
 ### Category Name 1 
+[Project 2 Title](/excel/JNQ.xlsx?raw=true)
 
-[Project 1 Title](/sample_page)
+
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
