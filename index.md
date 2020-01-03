@@ -54,7 +54,7 @@ This excel file computes the ARC for free recall responses of participants. Only
 
  <br>
 
- ### More to Come Soon . . .
+ More to Come Soon . . .
 
 ---
 ## Modified R Functions
@@ -65,7 +65,7 @@ This document contains R code to get the empirical logit plot for Y on X when Y 
 
  <br>
 
- ### More to Come Soon . . .
+  More to Come Soon . . .
 ---
 
 
