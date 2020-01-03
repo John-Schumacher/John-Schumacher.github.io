@@ -20,7 +20,7 @@ This excel file provides relevant statistics for a 2 by 2 contigency table
 
 ### Goodness of Fit Tests & Other Things for K by K Contingency Table
 This excel file pprovides the goodness of fit Chi-Squared test and G-test for a contingency table. It also provides Cramer's V and Standardized Residual values. This excel only allows for up to 10 levels of any of the two categoical variables. Only change yellow highlighted cells. All equations are lifted from Agresti (2013).
-[Download](/excel/ChiG.xlsx?raw=true)
+[Download](/excel/chiG.xlsx?raw=true)
 
  <br>
 
