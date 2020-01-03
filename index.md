@@ -1,16 +1,20 @@
 ## Excel Calculators
 
 ---
-### Johnshon-Neyman Ins. Slope of Quadratic Effect
+### Johnshon-Neyman Instantaneous Slope of Quadratic Effect
 This excel files allows you to find the region 
 of significance for the instaneous slope of a quadratic effect
 in a regression. It also allows you to find the point
 estimate effect and confidence interval along any value of X.
 The math for this calculator was adapted from Miller, 
-Stromeyer, and Schwieterman (2013).[Download](/excel/JNQ.xlsx?raw=true)
+Stromeyer, and Schwieterman (2013). [Download](/excel/JNQ.xlsx?raw=true)
 
+ <br><br>
 
-
+### Two by Two Contingency Table Relevant Statistics
+This excel files allows you to find relevant statistics for a 2 by 2 contigency table
+(e.g., Chi, Yule, RR, OR, Fischer's Exact Probability, etc.). All equations are lifted from Agresti (2013).  
+[Download](/excel/JNQ.xlsx?raw=true)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
