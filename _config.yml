@@ -11,6 +11,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
    <a href="/pdf/Schumacher_CV.pdf">CV</a> 
   <br><br>
+  <a href="/pdf/UXWork.pdf">UX Work Sample</a> 
+  <br><br>
   <a href="https://www.linkedin.com/in/john-schumacher-15a608196/">LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
