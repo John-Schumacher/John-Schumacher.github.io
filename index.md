@@ -33,6 +33,7 @@ This excel file provides the M-Squared test for a contingency table. This excel 
 ### Gamma
 This excel file provides the gamma correlation for a contigency table, along with relevant values that are pertinent to the formula. This excel only allows for up to 10 levels of any of the two categoical variables. Only change yellow highlighted cells. All equations are lifted from Agresti (2013).
 [Download](/excel/Gamma.xlsx?raw=true)
+
 ---
 
 ## Modified R Functions
