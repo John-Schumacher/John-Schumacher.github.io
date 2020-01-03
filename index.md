@@ -9,12 +9,12 @@ estimate effect and confidence interval along any value of X.
 The math for this calculator was adapted from Miller, 
 Stromeyer, and Schwieterman (2013). [Download](/excel/JNQ.xlsx?raw=true)
 
- <br><br>
+ <br>
 
 ### Two by Two Contingency Table Relevant Statistics
 This excel files allows you to find relevant statistics for a 2 by 2 contigency table
 (e.g., Chi, Yule, RR, OR, Fischer's Exact Probability, etc.). All equations are lifted from Agresti (2013).  
-[Download](/excel/JNQ.xlsx?raw=true)
+[Download](/excel/TwobyTwo.xlsx?raw=true)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
