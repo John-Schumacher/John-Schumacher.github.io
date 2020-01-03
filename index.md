@@ -61,7 +61,7 @@ This excel file computes the ARC for free recall responses of participants. Only
 
 ### ARC Calculator for Free Recall Responses
 This document contains R code to get the empirical logit plot for Y on X when Y is binary. This code was taken from <a href="http://alexschell.github.io/emplogit.html">Alex Schell</a> and was modified so that it contained the Agresti (2013) Adjustment to better handle continuous X variables. I have provided the original document which covers how to perform a logistic regression in R and SAS in case it is of use to any. The relevant R code and steps are highlighted. 
-[Download](/excel/ARC.xlsx?raw=true)
+[Download](/Word/EmpLog.docx?raw=true)
 
  <br>
 
