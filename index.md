@@ -34,16 +34,38 @@ This excel file provides the M-Squared test for a contingency table. This excel 
 This excel file provides the gamma correlation for a contigency table, along with relevant values that are pertinent to the formula. This excel only allows for up to 10 levels of any of the two categoical variables. Only change yellow highlighted cells. All equations are lifted from Agresti (2013).
 [Download](/excel/Gamma.xlsx?raw=true)
 
----
+ <br>
 
+### Odds Probability and Log Odds Conversion Calculator
+This excel file converts a probability, odds, or log odds to the other two forms. All equations are lifted from Agresti (2013).
+[Download](/excel/OPL.xlsx?raw=true)
+
+ <br>
+
+### Simple Compound Interest Calculator with Equations
+This excel file computes the return from an investment. 
+[Download](/excel/CI.xlsx?raw=true)
+
+ <br>
+
+### ARC Calculator for Free Recall Responses
+This excel file computes the ARC for free recall responses of participants. Only change yellow highlighted cells. All equations are lifted from Nestojko, Bui, Kornell, and Bjork (2014).
+[Download](/excel/ARC.xlsx?raw=true)
+
+ <br>
+
+ ### More to Come Soon . . .
+
+---
 ## Modified R Functions
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+### ARC Calculator for Free Recall Responses
+This document contains R code to get the empirical logit plot for Y on X when Y is binary. This code was taken from <a href="http://alexschell.github.io/emplogit.html">Alex Schell</a> and was modified so that it contained the Agresti (2013) Adjustment to better handle continuous X variables. I have provided the original document which covers how to perform a logistic regression in R and SAS in case it is of use to any. The relevant R code and steps are highlighted. 
+[Download](/excel/ARC.xlsx?raw=true)
 
+ <br>
+
+ ### More to Come Soon . . .
 ---
 
 
