@@ -17,4 +17,5 @@ description: > # your text below (remove <br> elements if you don't need line br
 
 
 theme: jekyll-theme-minimal
+layout: splash
 google_analytics: UA-155354722-1 # your Google Analytics tracking ID here
