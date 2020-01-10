@@ -16,6 +16,6 @@ description: > # your text below (remove <br> elements if you don't need line br
   <a href="https://www.linkedin.com/in/john-schumacher-15a608196/">LinkedIn Profile</a>
 
 
-theme: jekyll-theme-minimal
+theme: minimal_mistakes_skin
 minimal_mistakes_skin: "aqua"
 google_analytics: UA-155354722-1 # your Google Analytics tracking ID here
