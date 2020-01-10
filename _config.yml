@@ -1,20 +1,20 @@
 title: JOHN RICHARD SCHUMACHER # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
- I am a Cognitive Psychology Doctoral Candidate at Texas Tech University.  I have expertise in experimental research and inferential statistical modeling. 
+ I am a Cognitive Psychology Doctoral Candidate at Texas Tech University.  I have expertise in experimental research and inferential statistical modeling.
   <br><br>
- This website contains various statistical tools (i.e., excel calculators, modified R functions, learning guides) that may be of use to some. All work is either my own or modified work that I have cited. These tools were originally created for teaching and research purposes. I tend only to develop calculators and modify code as is needed for my work, and I try not to recreate the wheel. Due to this, these tools tend to serve rarer statistical tasks than the ones most often employed. 
+ This website contains various statistical tools (i.e., excel calculators, modified R functions, learning guides) that may be of use to some. All work is either my own or modified work that I have cited. These tools were originally created for teaching and research purposes. I tend only to develop calculators and modify code as is needed for my work, and I try not to recreate the wheel. Due to this, these tools tend to serve rarer statistical tasks than the ones most often employed.
   <br><br>
-  <a href="/pdf/Schumacher_Resume_BS.pdf">General Resume</a> 
+  <a href="/pdf/Schumacher_Resume_BS.pdf">General Resume</a>
   <br><br>
-  <a href="/pdf/Schumacher_Resume__UX.pdf">UX Focused Resume</a> 
+  <a href="/pdf/Schumacher_Resume__UX.pdf">UX Focused Resume</a>
   <br><br>
-   <a href="/pdf/Schumacher_CV.pdf">CV</a> 
+   <a href="/pdf/Schumacher_CV.pdf">CV</a>
   <br><br>
-  <a href="/pdf/UXWork.pdf">UX Work Sample</a> 
+  <a href="/pdf/UXWork.pdf">UX Work Sample</a>
   <br><br>
-  <a href="https://www.linkedin.com/in/john-schumacher-15a608196/">LinkedIn Profile</a> 
-  
+  <a href="https://www.linkedin.com/in/john-schumacher-15a608196/">LinkedIn Profile</a>
+
 
 theme: jekyll-theme-minimal
 google_analytics: UA-155354722-1 # your Google Analytics tracking ID here
