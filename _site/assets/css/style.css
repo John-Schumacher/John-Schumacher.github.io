@@ -150,7 +150,7 @@ a small { font-size: 11px; color: #777; margin-top: -0.3em; display: block; }
 
 a:hover small { color: #777; }
 
-.wrapper { max-width: 1050px; margin: 0 auto; overflow: hidden;}
+.wrapper { max-width: 960px; margin: 0 auto; overflow: hidden;}
 
 blockquote { border-left: 1px solid #e5e5e5; margin: 0; padding: 0 0 0 20px; font-style: italic; }
 
@@ -198,7 +198,7 @@ hr { border: 0; background: #e5e5e5; height: 1px; margin: 0 0 20px; }
 
 footer { width: 270px; float: left; position: fixed; bottom: 50px; -webkit-font-smoothing: subpixel-antialiased; }
 
-@media print, screen and (max-width: 0 auto { div.wrapper { max-width: auto; margin: 0; }
+@media print, screen and (max-width: 960px { div.wrapper { max-width: 960px; margin: 0; overflow: hidden; }
   header, section, footer { float: none; position: static; width: auto; }
   header { padding-right: 20px; }
   section { border: 1px solid #e5e5e5; border-width: 1px 0; padding: 20px 0; margin: 0 0 20px; }
