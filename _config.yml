@@ -13,6 +13,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br>
   <a href="https://www.linkedin.com/in/john-schumacher-15a608196/">LinkedIn Profile</a>
 
-
+github:
+  is_project_page: false
 theme: jekyll-theme-minimal
 google_analytics: UA-155354722-1 # your Google Analytics tracking ID here
