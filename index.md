@@ -1,6 +1,6 @@
 
 
-# JOHN SCHUMACHER'S WEBPAG
+# JOHN SCHUMACHER'S WEBSITE
 ---
 ## Excel Calculators
 
