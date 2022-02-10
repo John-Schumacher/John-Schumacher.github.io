@@ -1,0 +1,10 @@
+@font-face {
+	font-family: 'Minion Pro';
+	src: url(../../assets/fonts/MinionPro-BoldCnDisp.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MinionPro-BoldCnDisp.eot) format('embedded-opentype'),
+	url(../../assets/fonts/MinionPro-BoldCnDisp.woff2) format('woff2'),
+	url(../../assets/fonts/MinionPro-BoldCnDisp.woff) format('woff'),
+	url(../../assets/fonts/MinionPro-BoldCnDisp.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}

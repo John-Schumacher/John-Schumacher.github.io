@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'HelveticaNowMicroLightItalic';
+	src: url(../../assets/fonts/HelveticaNowMicroLightItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowMicroLightItalic.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowMicroLightItalic.woff2) format('woff2'),
+	url(../../assets/fonts/HelveticaNowMicroLightItalic.woff) format('woff'),
+	url(../../assets/fonts/HelveticaNowMicroLightItalic.ttf) format('truetype'),
+	url(../../assets/fonts/HelveticaNowMicroLightItalic.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}

@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'HelveticaNowTextBlack';
+	src: url(../../assets/fonts/HelveticaNowTextBlack.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowTextBlack.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowTextBlack.woff2) format('woff2'),
+	url(../../assets/fonts/HelveticaNowTextBlack.woff) format('woff'),
+	url(../../assets/fonts/HelveticaNowTextBlack.ttf) format('truetype'),
+	url(../../assets/fonts/HelveticaNowTextBlack.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}

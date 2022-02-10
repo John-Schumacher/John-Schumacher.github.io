@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'HelveticaNowMicroExtraBold';
+	src: url(../../assets/fonts/HelveticaNowMicroExtraBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowMicroExtraBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowMicroExtraBold.woff2) format('woff2'),
+	url(../../assets/fonts/HelveticaNowMicroExtraBold.woff) format('woff'),
+	url(../../assets/fonts/HelveticaNowMicroExtraBold.ttf) format('truetype'),
+	url(../../assets/fonts/HelveticaNowMicroExtraBold.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}

@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'HelveticaNowMicroBold';
+	src: url(../../assets/fonts/HelveticaNowMicroBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowMicroBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowMicroBold.woff2) format('woff2'),
+	url(../../assets/fonts/HelveticaNowMicroBold.woff) format('woff'),
+	url(../../assets/fonts/HelveticaNowMicroBold.ttf) format('truetype'),
+	url(../../assets/fonts/HelveticaNowMicroBold.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}

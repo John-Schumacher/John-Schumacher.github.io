@@ -1,0 +1,11 @@
+@font-face {
+	font-family: 'HelveticaNowTextMedium';
+	src: url(../../assets/fonts/HelveticaNowTextMedium.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowTextMedium.eot) format('embedded-opentype'),
+	url(../../assets/fonts/HelveticaNowTextMedium.woff2) format('woff2'),
+	url(../../assets/fonts/HelveticaNowTextMedium.woff) format('woff'),
+	url(../../assets/fonts/HelveticaNowTextMedium.ttf) format('truetype'),
+	url(../../assets/fonts/HelveticaNowTextMedium.svg) format('svg');
+	font-weight: 400;
+	font-style: normal;
+}
