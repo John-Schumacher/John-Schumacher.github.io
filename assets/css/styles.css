@@ -10,7 +10,7 @@ h3 {
   font-family: 'HelveticaNowDisplay Bold';
   color: #003675;
   font-weight: 700!important;
-  font-size: 60px!important;
+  font-size: xxx-large;
   letter-spacing: .05em;
   margin-bottom: -10px;
   border-bottom: solid;
@@ -791,13 +791,33 @@ a:hover {
   margin-top: 20px;
 }
 
+@media (max-width: 700px) {
+  #TitleParagraph {
+    line-height: 1.5!important;
+    letter-spacing: .075em!important;
+    font-family: 'HelveticaNowTextRegular';
+    font-size: 16px!important;
+  }
+}
+
 #SubParagraph {
-  /*line-height: 1.9!important;*/
+  line-height: 1.9!important;
   letter-spacing: .05em;
   font-family: 'HelveticaNowTextRegular';
   font-size: 20px;
   margin-top: 10px;
   margin-bottom: 25px!important;
+}
+
+@media (max-width: 700px) {
+  #SubParagraph {
+    line-height: 1.5!important;
+    letter-spacing: .075em!important;
+    font-family: 'HelveticaNowTextRegular';
+    font-size: 16px!important;
+    margin-top: 10px;
+    margin-bottom: 25px!important;
+  }
 }
 
 p {
@@ -807,8 +827,23 @@ p {
   font-size: 20px!important;
 }
 
+@media (max-width: 700px) {
+  p {
+    line-height: 1.5!important;
+    letter-spacing: .075em!important;
+    font-family: 'HelveticaNowTextRegular'!important;
+    font-size: 16px!important;
+  }
+}
+
 #columntext {
   max-width: 700px!important;
+}
+
+@media (min-width: 700px) {
+  #columntext {
+    width: 100%!important;
+  }
 }
 
 #primarylist {
@@ -821,6 +856,18 @@ p {
   padding-left: 50px!important;
 }
 
+@media (max-width: 300px) {
+  #primarylist {
+    line-height: 1.5!important;
+    letter-spacing: .075em!important;
+    font-family: 'HelveticaNowTextRegular'!important;
+    font-size: 16px!important;
+    /*padding-top: 10px!important;*/
+    margin-top: -10px;
+    padding-left: 50px!important;
+  }
+}
+
 #sublist {
   /*line-height: 1.9!important;*/
   letter-spacing: .05em!important;
@@ -830,6 +877,17 @@ p {
   padding-left: 40px!important;
 }
 
+@media (max-width: 700px) {
+  #sublist {
+    /*line-height: 1.9!important;*/
+    letter-spacing: .075em!important;
+    font-family: 'HelveticaNowTextRegular'!important;
+    font-size: 14px!important;
+    /*padding-top: 10px!important;*/
+    padding-left: 40px!important;
+  }
+}
+
 #sublistB {
   line-height: 1.9!important;
   font-family: 'HelveticaNowTextRegular'!important;
@@ -837,6 +895,17 @@ p {
   padding-top: 10px!important;
   /*padding-left: 40px!important;*/
   margin-top: -5px;
+}
+
+@media (max-width: 700px) {
+  #sublistB {
+    line-height: 1.5!important;
+    font-family: 'HelveticaNowTextRegular'!important;
+    font-size: 14px!important;
+    padding-top: 10px!important;
+    /*padding-left: 40px!important;*/
+    margin-top: -5px;
+  }
 }
 
 #Primary_List_Text {
@@ -857,6 +926,26 @@ p {
   margin-left: 20px;
 }
 
+@media (max-width: 700px) {
+  #Primary_List_Text {
+    /*line-height: 3!important;*/
+    letter-spacing: .075em!important;
+    font-family: 'HelveticaNowTextRegular'!important;
+    /*font-size: 16px!important;*/
+    /*padding-top: 0px!important;*/
+    /*margin-top: -10px;*/
+    /*padding-left: 25px!important;*/
+    /*padding-bottom: 5px!important;*/
+    font-weight: normal;
+    color: #0a0301!important;
+    font-size: 16px;
+    /*width: initial;*/
+    padding: 0px!important;
+    display: flex;
+    margin-left: 20px;
+  }
+}
+
 #Sub_List_Text {
   /*line-height: 3!important;*/
   letter-spacing: .075em!important;
@@ -875,6 +964,26 @@ p {
   margin-left: 20px;
 }
 
+@media (max-width: 700px) {
+  #Sub_List_Text {
+    /*line-height: 3!important;*/
+    letter-spacing: .075em!important;
+    font-family: 'HelveticaNowTextRegular'!important;
+    /*font-size: 20px!important;*/
+    /*padding-top: 0px!important;*/
+    /*margin-top: -10px;*/
+    /*padding-left: 25px!important;*/
+    /*padding-bottom: 5px!important;*/
+    font-weight: normal;
+    color: #0a0301!important;
+    font-size: 14px!important;
+    /*width: initial;*/
+    padding: 0px!important;
+    display: flex;
+    margin-left: 20px;
+  }
+}
+
 #Primary_List_Bullet {
   color: #003675;
   font-family: 'HelveticaNowTextBlack';
@@ -883,6 +992,18 @@ p {
   list-style-type: "—";
   /*margin-right: 100px!important;*/
   padding-bottom: 20px;
+}
+
+@media (max-width: 700px) {
+  #Primary_List_Bullet {
+    color: #003675;
+    font-family: 'HelveticaNowTextBlack';
+    font-size: 16px;
+    margin-top: -10px;
+    list-style-type: "—";
+    /*margin-right: 100px!important;*/
+    padding-bottom: 20px;
+  }
 }
 
 #Sub_List_BulletB {
@@ -914,6 +1035,18 @@ p {
   padding-bottom: 10px;
 }
 
+@media (max-width: 700px) {
+  #Sub_List_Bullet {
+    color: #426c4f;
+    font-family: 'HelveticaNowTextBlack';
+    font-size: 20px;
+    margin-top: -10px;
+    list-style-type: "—";
+    /*margin-right: 100px!important;*/
+    padding-bottom: 10px;
+  }
+}
+
 #Primary_List_Bullet1 {
   color: #003675;
   font-family: 'HelveticaNowTextBlack';
@@ -922,6 +1055,18 @@ p {
   list-style-type: "#1";
   /*margin-right: 100px!important;*/
   padding-bottom: 15px;
+}
+
+@media (max-width: 700px) {
+  #Primary_List_Bullet1 {
+    color: #003675;
+    font-family: 'HelveticaNowTextBlack';
+    font-size: 16px;
+    margin-top: -10px;
+    list-style-type: "#1";
+    /*margin-right: 100px!important;*/
+    padding-bottom: 15px;
+  }
 }
 
 #Primary_List_Bullet2 {
@@ -934,6 +1079,18 @@ p {
   padding-bottom: 15px;
 }
 
+@media (max-width: 700px) {
+  #Primary_List_Bullet2 {
+    color: #003675;
+    font-family: 'HelveticaNowTextBlack';
+    font-size: 16px;
+    margin-top: -10px;
+    list-style-type: "#2";
+    /*margin-right: 100px!important;*/
+    padding-bottom: 15px;
+  }
+}
+
 #Primary_List_Bullet3 {
   color: #003675;
   font-family: 'HelveticaNowTextBlack';
@@ -942,6 +1099,18 @@ p {
   list-style-type: "#3";
   /*margin-right: 100px!important;*/
   /*padding-bottom: 15px;*/
+}
+
+@media (max-width: 700px) {
+  #Primary_List_Bullet3 {
+    color: #003675;
+    font-family: 'HelveticaNowTextBlack';
+    font-size: 16px;
+    margin-top: -10px;
+    list-style-type: "#3";
+    /*margin-right: 100px!important;*/
+    /*padding-bottom: 15px;*/
+  }
 }
 
 h4 {
@@ -957,7 +1126,7 @@ h4 {
 
 h5 {
   font-family: 'HelveticaNowDisplay Bold';
-  font-size: 30px;
+  font-size: xxx-large;
   color: #003675;
   letter-spacing: .05em;
   margin-top: 25px;
