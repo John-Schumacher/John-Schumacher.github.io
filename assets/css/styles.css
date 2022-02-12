@@ -39,7 +39,7 @@ h2 {
 }
 
 #quote {
-  /*font-size: medium;*/
+  font-size: 20px!Important;
   color: #0a0301;
   font-weight: 300;
   /*margin-left: 5%;*/
@@ -51,6 +51,13 @@ h2 {
   position: relative;
   top: 50%;
   left: 50%;
+  font-family: 'HelveticaNowTextRegular'!important;
+}
+
+@media (max-width: 700px) {
+  #quote {
+    font-size: 16px!Important;
+  }
 }
 
 .bg-primary {
@@ -372,12 +379,13 @@ ul {
   font-variant: small-caps!important;
   line-height: 90%!important;
   font-family: 'Minion Pro'!important;
-  font-size: 6vmax!important;
+  font-size: calc(20px + 6vw)!important;
   /*color: #000000;*/
   /*font-weight: lighter!important;*/
   /*text-align: center!important;*/
   padding: 0!important;
-  margin-right: 5%!important;
+  /*margin-right: 5%!important;*/
+  /*width: 0vw!important;*/
 }
 
 .article-clean {
