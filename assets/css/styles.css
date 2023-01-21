@@ -212,7 +212,7 @@ large:hover {
   /*border: #ffffff!important;*/
   /*outline-color: #007a33;*/
   /*font-weight: bolder;*/
-  font-family: 'HelveticaNowTextBlack';
+  font-family: 'HelveticaNowTextBlack'!important;
 }
 
 #PROJECTLINKS {
