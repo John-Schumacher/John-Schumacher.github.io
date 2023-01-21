@@ -182,7 +182,7 @@ small {
 large {
   border-bottom: 2px!important #007a33!important;
   font-size: calc(14px + 1.2vh)!important;
-  font-family: 'HelveticaNowTextBold'!important;
+  font-family: 'HelveticaNowTextMedium'!important;
   letter-spacing: .1em!important;
 }
 
@@ -197,21 +197,22 @@ small:hover {
   /*border-bottom: 2px!important #007a33!important;*/
   /*border: #007a33!important;*/
   /*outline-color: #007a33;*/
-  font-family: 'HelveticaNowTextBold';
+  font-family: 'HelveticaNowTextBlack';
 }
 
 large:hover {
   /*outline-color: #007a33!important;*/
   /*text-decoration-line: initial;*/
-  color: #ffffff!important;
+  /*color: #ffffff!important;*/
   /*transform: scale(1.15)!important;*/
-  font-size: calc(16.8px + 1.2vw)!important;
+  /*font-size: calc(16.8px + 1.2vw)!important;*/
   /*': bolder;*/
   /*border-color: #007a33!important;*/
-  border-bottom: 2.25px!important #ffffff!important;
-  border: #ffffff!important;
+  /*border-bottom: 2.25px!important #ffffff!important;*/
+  /*border: #ffffff!important;*/
   /*outline-color: #007a33;*/
-  font-weight: bolder;
+  /*font-weight: bolder;*/
+  font-family: 'HelveticaNowTextBlack';
 }
 
 #PROJECTLINKS {
@@ -237,9 +238,9 @@ large:hover {
 .active {
   /*border-bottom: 2px solid!important #007a33;*/
   /*border-width: 2px!important;*/
-  color: #007a33;
+  /*color: #007a33;*/
   /*font-size: 14px;*/
-  /*font-family: 'HelveticaNowMicroMedium';*/
+  font-family: 'HelveticaNowTextBlack';
   /*margin-bottom: 5px;*/
   /*letter-spacing: 2px;*/
   border-bottom: solid;
@@ -254,8 +255,8 @@ large:hover {
   /*margin-right: 50px!important;*/
   /*background-color: #007a33;*/
   border-bottom: solid;
-  border-width: 2.5vw!important;
-  font-weight: bolder!important;
+  /*border-width: 1.5vw!important;*/
+  font-family: 'HelveticaNowTextBlack';
   /*font-size: larger!important;*/
 }
 
