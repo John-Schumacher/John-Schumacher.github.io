@@ -1,5 +1,5 @@
 .social-icons {
-  color: #0a0301!important;
+  color: #231f20!important;
   text-align: center;
 }
 
@@ -16,7 +16,7 @@
 .social-icons i {
   font-size: calc(75px + 1.5vw);
   display: inline-block;
-  color: #0a0301!important;
+  color: #231f20!important;
   width: 60px;
   height: 60px;
   text-align: center;
@@ -27,12 +27,12 @@
 }
 
 #soc:hover {
-  color: #426c4f!important;
+  color: #007a33!important;
   transform: scale(1.2);
 }
 
 #soclink {
-  color: #003675!important;
+  color: #236192!important;
   font-family: 'HelveticaNowDisplay Bold';
   letter-spacing: .1em!important;
   font-size: calc(14px + 1.15vw)!important;
@@ -40,7 +40,7 @@
 
 @media (max-width: 446px) {
   #soclink {
-    /*color: #003675!important;*/
+    /*color: #236192!important;*/
     /*font-family: 'HelveticaNowDisplay Bold';*/
     /*letter-spacing: .1em!important;*/
     font-size: calc(12px + 1.15vw)!important;
@@ -48,13 +48,13 @@
 }
 
 #SocActive {
-  color: #003675!important;
+  color: #236192!important;
 }
 
 #contactMethod {
   /*border-bottom: solid;*/
   border-width: 2.5vh!important;
-  border-color: #003675;
+  border-color: #236192;
   border-radius: 7.5px;
 }
 
