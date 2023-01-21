@@ -36,7 +36,7 @@ main {
   --navbar-height: 31px;
   position: fixed;
   height: var(--navbar-height);
-  background-color: #003675;
+  background-color: #236192;
   left: 0;
   right: 0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
@@ -51,7 +51,7 @@ main {
   --navbar-height: 31px;
   position: fixed;
   height: var(--navbar-height);
-  background-color: #faf1d6;
+  background-color: #E5E1E6;
   left: 0;
   right: 0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
@@ -234,7 +234,7 @@ main {
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-color: #003675;
+  background-color: #236192;
 }
 
 #navbar.opened .navbar-links {
