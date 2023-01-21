@@ -189,15 +189,15 @@ large {
 small:hover {
   /*outline-color: #007a33!important;*/
   /*text-decoration-line: initial;*/
-  color: #007a33!important;
-  /*transform: scale(1.15)!important;*/
-  font-size: calc(13.2px + 1.2vh)!important;
+  /*color: #007a33!important;*/
+  /*transform: scale(1.10)!important;*/
+  /*font-size: calc(13.2px + 1.2vh)!important;*/
   /*font-weight: bolder;*/
   /*border-color: #007a33!important;*/
-  border-bottom: 2px!important #007a33!important;
+  /*border-bottom: 2px!important #007a33!important;*/
   /*border: #007a33!important;*/
   /*outline-color: #007a33;*/
-  font-weight: bolder;
+  font-family: 'HelveticaNowTextBold';
 }
 
 large:hover {
