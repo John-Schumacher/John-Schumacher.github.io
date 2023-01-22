@@ -45,6 +45,7 @@ main {
   border: hidden;
   padding-left: 50px;
   font-size: larger;
+  overflow-y:hidden;
 }
 
 #navbarB {
