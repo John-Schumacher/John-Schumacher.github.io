@@ -492,6 +492,8 @@ ul {
   margin-right: auto;
 }
 
+
+
 #navbar {
   --navbar-height: 31px;
   position: fixed;
@@ -505,6 +507,7 @@ ul {
   border: hidden;
   padding-left: 50px;
   font-size: larger;
+  overflow-y:hidden;
 }
 
 #navbarB {
