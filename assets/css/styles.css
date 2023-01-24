@@ -29,15 +29,8 @@ h2 {
 
 #centering2 {
   width: 100%;
-  padding-top: 12.5vh!important;
   position: absolute;
-  top: 40%;
-  left: 50%;
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
-  max-height: 100%;
-  margin-top: 80px!Important;
+  top: 145px!Important;
 }
 
 #quote {
