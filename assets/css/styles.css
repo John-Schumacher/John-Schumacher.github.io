@@ -490,7 +490,7 @@ ul {
 
 
 #navbar {
-  --navbar-height: 31px;
+  --navbar-height: 60px;
   position: fixed;
   height: var(--navbar-height);
   background-color: #236192;
@@ -506,18 +506,17 @@ ul {
 }
 
 #navbarB {
-  --navbar-height: 31px;
+  --navbar-height: 40px;
   position: fixed;
   height: var(--navbar-height);
   background-color: #E5E1E6;
   left: 0;
   right: 0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
-  top: 31px;
+  top: 60px;
   z-index: 2;
   border: hidden;
   /*justify-content: space-evenly;*/
-  padding-top: 15px;
   width: 100vw;
   display: block;
 }
