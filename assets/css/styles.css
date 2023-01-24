@@ -518,6 +518,7 @@ ul {
   border: hidden;
   /*justify-content: space-evenly;*/
   width: 100vw;
+  padding-top: 15px;
   display: block;
 }
 
