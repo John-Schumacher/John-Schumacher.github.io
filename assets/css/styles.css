@@ -30,7 +30,7 @@ h2 {
 #centering2 {
   width: 100%;
   position: absolute;
-  top: 145px!Important;
+  top: 122.5px!Important;
 }
 
 #quote {
@@ -622,8 +622,8 @@ ul {
 .detached .navbar-links {
   left: 0;
   right: 0;
-  margin: 1.4rem;
-  border-radius: 5px;
+  margin: 3rem;
+  border-radius: 6px;
   box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
 }
 
