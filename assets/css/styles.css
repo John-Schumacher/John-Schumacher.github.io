@@ -375,7 +375,7 @@ ul {
   font-variant: small-caps!important;
   line-height: 90%!important;
   font-family: 'Minion Pro'!important;
-  font-size: calc(20px + 6vw)!important;
+  font-size: calc(42px + .5vw)!important;
   /*color: #000000;*/
   /*font-weight: lighter!important;*/
   /*text-align: center!important;*/
