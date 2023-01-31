@@ -1198,7 +1198,7 @@ h3 {
   padding-left: 8.25px!important;
   padding-right: 8.25px!important;
   padding-top: 8.25px!important;
-  border-bottom: medium solid #007a33;
+
 }
 
 .card {
@@ -1264,13 +1264,7 @@ h3 {
   box-shadow: 2px 6px 8px 0 #007a33;
 }
 
-.card-text {
-  letter-spacing: .075em;
-  font-family: 'HelveticaNowTextRegular';
-  font-size: 16px!important;
-  color: #231f20;
-  line-height: 1.4!important;
-}
+
 
 
 .card-text {
@@ -1278,12 +1272,14 @@ h3 {
   letter-spacing: .05em!important;
   font-family: 'HelveticaNowTextRegular'!important;
   font-size: 20px!important;
-  margin-top: 20px!important
+  margin-top: 10px!important;
+  border-top: medium solid #231F20;
   
 }
 
 @media (max-width: 700px) {
   .card-text {
+    margin-top: 10px!important
     line-height: 1.5!important;
     letter-spacing: .075em!important;
     font-family: 'HelveticaNowTextRegular';
