@@ -8,16 +8,6 @@ h1 {
   letter-spacing: .05em;
 }
 
-h3 {
-  font-family: 'HelveticaNowDisplay Bold';
-  color: #236192;
-  font-weight: 700!important;
-  font-size: xxx-large;
-  letter-spacing: .05em;
-  margin-bottom: -10px;
-  border-bottom: solid;
-  border-width: 10px;
-}
 
 h2 {
   font-family: 'HelveticaNowDisplay Medium';
