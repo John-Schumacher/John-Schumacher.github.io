@@ -220,16 +220,7 @@ large:hover {
   }
 }
 
-.active {
-  /*border-bottom: 2px solid!important #007a33;*/
-  /*border-width: 2px!important;*/
-  /*color: #007a33;*/
-  /*font-size: 14px;*/
-  font-family: 'HelveticaNowTextBlack';
-  /*margin-bottom: 5px;*/
-  /*letter-spacing: 2px;*/
-  border-bottom: solid;
-}
+
 
 .activeB {
   /*border-bottom: 2px solid!important #007a33;*/
