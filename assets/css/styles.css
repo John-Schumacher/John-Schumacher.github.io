@@ -1192,11 +1192,13 @@ h3 {
   list-style: none;
 }
 
+
 .card img {
   border-radius: .5em;
   padding-left: 8.25px!important;
   padding-right: 8.25px!important;
   padding-top: 8.25px!important;
+  border-bottom: medium solid #007a33;
 }
 
 .card {
