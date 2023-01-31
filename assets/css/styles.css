@@ -1221,12 +1221,11 @@ h3 {
 
 .carousel-control-prev, .carousel-control-next {
   background-color: #e1e1e1;
-  width: 5vh;
-  /*height: 5vh;*/
+  width: 5vw;
+  height: 5vw;
   /*border-radius: 50%;*/
   /*top: 50%;*/
   /*transform: translateY(-50%);*/
-  width: 10vw;
 }
 
 .btn {
