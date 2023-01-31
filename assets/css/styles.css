@@ -1166,13 +1166,13 @@ h3 {
 }
 
 .carousel-control-next-icon {
-  background-image: url(next.svg);
+  background-image: url(../../assets/img/next.svg?h=254ff7eb5a08df770c5f92ccf24bcaeb);
   /*margin-right: -250%;*/
   /*margin-top: -500%;*/
 }
 
 .carousel-control-prev-icon {
-  background-image: url(previous.svg)!important;
+  background-image: url(../../assets/img/previous.svg?h=f8997b5113244ea688180e22d393cb79)!important;
   /*margin-left: -250%;*/
   /*margin-top: -500%;*/
 }
