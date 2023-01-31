@@ -1231,10 +1231,9 @@ h3 {
 
 .carousel-control-prev, .carousel-control-next {
   background-color: #e1e1e1;
-  width: 5vw;
-  /*height: 5vw;*/
+  width: 7.5vw;
+  height: 100vh;
   /*border-radius: 50%;*/
-  top: 50vw;
   /*transform: translateY(-50%);*/
 }
 
