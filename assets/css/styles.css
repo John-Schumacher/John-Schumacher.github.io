@@ -1157,12 +1157,18 @@ h5 {
 
 h3 {
   font-family: 'HelveticaNowDisplay Bold';
+  font-size: 20px!important;
+  color: #231f20;
+}
+
+@media (max-width: 700px) {
+  h3 {
+  font-family: 'HelveticaNowDisplay Bold';
   font-size: 18px!important;
   color: #231f20;
-  /*border-bottom: solid;*/
-  /*border-width: 10px;*/
-  /*height: 49px;*/
+  }
 }
+
 
 .carousel-control-next-icon {
   background-image: url(../../assets/img/next.svg?h=254ff7eb5a08df770c5f92ccf24bcaeb);
