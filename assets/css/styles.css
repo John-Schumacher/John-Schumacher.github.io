@@ -1157,9 +1157,8 @@ h5 {
 
 h3 {
   font-family: 'HelveticaNowDisplay Bold';
-  font-size: large;
+  font-size: 18px!important;
   color: #231f20;
-  letter-spacing: .05em;
   /*border-bottom: solid;*/
   /*border-width: 10px;*/
   /*height: 49px;*/
