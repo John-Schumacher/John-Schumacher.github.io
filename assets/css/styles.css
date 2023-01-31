@@ -1214,6 +1214,12 @@ h3 {
   margin-top: 80px;
 }
 
+.card-below {
+  width: 600px!important;
+  max-width: 85vw!important;
+  margin-top:10px;
+}
+
 .carousel-inner {
   padding: 1em;
   /*justify-content: center;*/
