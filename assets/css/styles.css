@@ -1239,7 +1239,7 @@ h3 {
 .carousel-control-prev, .carousel-control-next {
   background-color: #e1e1e1;
   width: 7.5vw;
-  height: calc(100vh - 60px)!important;
+  height: 100vh!important;
   /*border-radius: 50%;*/
   /*transform: translateY(-50%);*/
 }
