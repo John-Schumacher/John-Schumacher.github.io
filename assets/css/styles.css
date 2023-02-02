@@ -17,10 +17,16 @@ h2 {
   letter-spacing: .13em;
 }
 
-#centering2 {
-  width: 100%;
-  position: absolute;
-  top: 122.5px!Important;
+#PageBody {
+  display: flex;
+  flex-directuib: column;
+  height: 100vh;
+}
+
+#centering2B {
+  flex: 1;
+  justify-content: center;
+  align-items: center;
 }
 
 #quote {
