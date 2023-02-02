@@ -1036,7 +1036,7 @@ p {
 }
 
 #Primary_List_Bullet1 {
-  color: #236192;
+  color: #007a33;
   font-family: 'HelveticaNowTextBlack';
   font-size: 20px;
   margin-top: -10px;
@@ -1047,7 +1047,7 @@ p {
 
 @media (max-width: 700px) {
   #Primary_List_Bullet1 {
-    color: #236192;
+    color: #007a33;
     font-family: 'HelveticaNowTextBlack';
     font-size: 16px;
     margin-top: -10px;
@@ -1058,7 +1058,7 @@ p {
 }
 
 #Primary_List_Bullet2 {
-  color: #236192;
+  color: #007a33;
   font-family: 'HelveticaNowTextBlack';
   font-size: 20px;
   margin-top: -10px;
@@ -1069,7 +1069,7 @@ p {
 
 @media (max-width: 700px) {
   #Primary_List_Bullet2 {
-    color: #236192;
+    color: #007a33;
     font-family: 'HelveticaNowTextBlack';
     font-size: 16px;
     margin-top: -10px;
@@ -1080,7 +1080,7 @@ p {
 }
 
 #Primary_List_Bullet3 {
-  color: #236192;
+  color: #007a33;
   font-family: 'HelveticaNowTextBlack';
   font-size: 20px;
   margin-top: -10px;
@@ -1091,7 +1091,7 @@ p {
 
 @media (max-width: 700px) {
   #Primary_List_Bullet3 {
-    color: #236192;
+    color: #007a33;
     font-family: 'HelveticaNowTextBlack';
     font-size: 16px;
     margin-top: -10px;
