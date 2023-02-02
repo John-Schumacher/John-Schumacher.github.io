@@ -1051,6 +1051,18 @@ p {
   padding-bottom: 15px;
 }
 
+#Primary_List_Bullet1:hover {
+  font-weight: bolder!important;
+}
+
+#Primary_List_Bullet2:hover {
+  font-weight: bolder!important;
+}
+
+#Primary_List_Bullet3:hover {
+  font-weight: bolder!important;
+}
+
 @media (max-width: 700px) {
   #Primary_List_Bullet1 {
     color: #007a33;
