@@ -490,7 +490,7 @@ ul {
 
 #navbar {
   --navbar-height: 60px;
-  position: fixed;
+  position: flex;
   height: var(--navbar-height);
   background-color: #236192;
   left: 0;
