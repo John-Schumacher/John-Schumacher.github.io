@@ -35,10 +35,46 @@ h2 {
     margin-top: 80px!Important;
 }
 
+@media (max-width: 700px) {
+  #centeringobjective {
+    padding-top: 0px!important;
+    margin-top: -120px;
+    width: 70vw;
+  }
+}
+
+
 #centering2{
   width: 100%;
   position: absolute;
   top: 122.5px!Important;
+}
+#centering {
+  width: 100%;
+  padding-top: 125px!important;
+  /*position: absolute;*/
+  /*top: 40%;*/
+  /*left: 50%;*/
+  /*-webkit-transform: translate(-50%, -50%);*/
+  /*-ms-transform: translate(-50%, -50%);*/
+  /*transform: translate(-50%, -50%);*/
+  /*max-height: 20%;*/
+}
+
+@media (max-width: 700px) {
+  #centering {
+    /*height: 200%!important;*/
+    padding-top: 0px!important;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    max-height: 20%;
+    margin-top: -120px;
+    width: 70vw;
+  }
 }
 
 #quote {
@@ -342,33 +378,7 @@ ul {
   justify-content: space-evenly;
 }
 
-#centering {
-  width: 100%;
-  padding-top: 125px!important;
-  /*position: absolute;*/
-  /*top: 40%;*/
-  /*left: 50%;*/
-  /*-webkit-transform: translate(-50%, -50%);*/
-  /*-ms-transform: translate(-50%, -50%);*/
-  /*transform: translate(-50%, -50%);*/
-  /*max-height: 20%;*/
-}
 
-@media (max-width: 700px) {
-  #centering {
-    /*height: 200%!important;*/
-    padding-top: 0px!important;
-    position: absolute;
-    top: 40%;
-    left: 50%;
-    -webkit-transform: translate(-50%, -50%);
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-    max-height: 20%;
-    margin-top: -120px;
-    width: 70vw;
-  }
-}
 
 #Name {
   font-variant: small-caps!important;
