@@ -406,11 +406,11 @@ ul {
 
 #Name {
   font-variant: small-caps!important;
-  line-height: 90%!important;
+  line-height: 75%!important;
   font-family: 'Minion Pro'!important;
-  font-size: calc(42px + .75vw)!important;
+  font-size: calc(42px + 2.0vw)!important;
   /*color: #000000;*/
-  /*font-weight: lighter!important;*/
+  font-weight: bold!important;
   /*text-align: center!important;*/
   padding: 0!important;
   /*margin-right: 5%!important;*/
