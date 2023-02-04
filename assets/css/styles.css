@@ -24,7 +24,7 @@ h2 {
 }
 
 #centeringobjective {
-    width: 100%;
+    width: 100vw;
     padding-top: 12.5vh!important;
     position: absolute;
     top: 40%;
@@ -38,12 +38,30 @@ h2 {
 @media (max-width: 700px) {
   #centeringobjective {
     padding-top: 0px!important;
-    /*margin-top: -120px;*/
+    margin-top: -120px;
     width: 90vw;
   }
 }
 
+#centeringIndex {
+    width: 100vw;
+    padding-top: 12.5vh!important;
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    max-height: 100%;
+    margin-top: 80px!Important;
+}
 
+@media (max-width: 700px) {
+  #centeringIndex {
+    padding-top: 0px!important;
+    /*margin-top: -120px;*/
+    width: 90vw;
+  }
+}
 #centering2{
   width: 100%;
   position: absolute;
