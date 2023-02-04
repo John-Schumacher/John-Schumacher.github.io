@@ -502,11 +502,12 @@ ul {
   padding-left: 50px;
   font-size: larger;
   overflow-y:hidden;
+   justify-content: space-evenly;
 }
 
 #navbarB {
   --navbar-height: 40px;
-  position: fixed;
+  position: flex;
   height: var(--navbar-height);
   background-color: #E5E1E6;
   left: 0;
@@ -515,7 +516,7 @@ ul {
   top: 60px;
   z-index: 2;
   border: hidden;
-  /*justify-content: space-evenly;*/
+  justify-content: space-evenly;
   width: 100vw;
   padding-top: 15px;
   display: block;
