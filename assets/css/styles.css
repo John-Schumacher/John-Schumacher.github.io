@@ -10,7 +10,7 @@ h1 {
 
 
 h2 {
-  font-family: 'HelveticaNowTextBlack';
+  font-family: 'HelveticaNowTextBold';
   color: #231f20;
   letter-spacing: .13em;
   font-size: 20px!Important;
@@ -100,7 +100,7 @@ h2 {
 }
 
 #quote {
-  width: 700px;
+  width: 800px;
   font-size: 20px!Important;
   color: #231f20;
   font-weight: 300;
