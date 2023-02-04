@@ -406,7 +406,7 @@ ul {
 
 #Name {
   font-variant: small-caps!important;
-  line-height: 75%!important;
+  line-height: 83.33%!important;
   font-family: 'Minion Pro'!important;
   font-size: calc(42px + 2.0vw)!important;
   /*color: #000000;*/
