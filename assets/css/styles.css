@@ -1,7 +1,5 @@
-
-
 h1 {
-  font-family: 'HelveticaNowDisplay Bold';
+  font-family: 'HelveticaNowTextBlack';
   color: #236192;
   font-weight: 700!important;
   font-size: xxx-large;
@@ -9,12 +7,19 @@ h1 {
 }
 
 
+
+
 h2 {
-  font-family: 'HelveticaNowDisplay Medium';
+  font-family: 'HelveticaNowTextBlack';
   color: #231f20;
-  font-weight: 500;
-  font-size: xxx-large;
   letter-spacing: .13em;
+  font-size: 20px!Important;
+}
+
+@media (max-width: 700px) {
+  h2 {
+    font-size: 16px!Important;
+  }
 }
 
 #PageBody {
@@ -233,14 +238,14 @@ h2 {
 small {
   border-bottom: 2px!important #007a33!important;
   font-size: calc(11px + 1.2vh)!important;
-  font-family: 'HelveticaNowTextMedium';
+  font-family: 'HelveticaNowTextBold';
   letter-spacing: .07em!important;
 }
 
 large {
   border-bottom: 2px!important #007a33!important;
   font-size: calc(14px + 1.2vh)!important;
-  font-family: 'HelveticaNowTextMedium'!important;
+  font-family: 'HelveticaNowTextBold'!important;
   letter-spacing: .1em!important;
 }
 
@@ -331,7 +336,7 @@ large:hover {
 
 .breadcrumb-item + .breadcrumb-item::before {
   content: none;
-  /*font-family: 'HelveticaNowDisplay Light';*/
+  /*font-family: 'HelveticaNowTextLight';*/
   /*top: 50%;*/
   /*margin-top: -50px;*/
   /*padding-left: .9em;*/
@@ -377,7 +382,7 @@ large:hover {
 a {
   text-decoration: none;
   color: #007a33;
-  /*font-family: 'HelveticaNowMicroMedium';*/
+  /*font-family: 'HelveticaNowMicroBold';*/
   /*width: 60px;*/
   /*font-size: 14px;*/
   /*letter-spacing: 2px;*/
@@ -760,7 +765,7 @@ a:hover {
   padding-top: 400px!important;
   font-size: calc(12px + 1.15vw)!important;
   letter-spacing: .05em!important;
-  font-family: 'HelveticaNowMicroMedium';
+  font-family: 'HelveticaNowMicroBold';
   /*padding-bottom: 50px;*/
 }
 
@@ -1162,7 +1167,7 @@ p {
 }
 
 h4 {
-  font-family: 'HelveticaNowDisplay Bold';
+  font-family: 'HelveticaNowTextBlack';
   font-size: xx-large;
   color: #007a33;
   letter-spacing: .05em;
@@ -1173,7 +1178,7 @@ h4 {
 }
 
 h5 {
-  font-family: 'HelveticaNowDisplay Bold';
+  font-family: 'HelveticaNowTextBlack';
   font-size: xxx-large;
   color: #236192;
   letter-spacing: .05em;
@@ -1216,7 +1221,7 @@ h5 {
 }
 
 h3 {
-  font-family: 'HelveticaNowDisplay Bold';
+  font-family: 'HelveticaNowTextBlack';
   font-size: 20px!important;
   color: #231f20;
   text-align: center!important;
@@ -1224,7 +1229,7 @@ h3 {
 
 @media (max-width: 700px) {
   h3 {
-  font-family: 'HelveticaNowDisplay Bold';
+  font-family: 'HelveticaNowTextBlack';
   font-size: 16px!important;
   color: #231f20;
     text-align: center!important;
