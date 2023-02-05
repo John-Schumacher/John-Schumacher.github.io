@@ -99,6 +99,27 @@ h2 {
   }
 }
 
+
+#Name {
+  font-variant: small-caps!important;
+  line-height: 83.33%!important;
+  font-family: 'Minion Pro'!important;
+  font-size: calc(42px + 2.0vw)!important;
+  /*color: #000000;*/
+  font-weight: 950!important;
+  /*text-align: center!important;*/
+  padding: 0!important;
+  letter-spacing:1.75!important;
+  /*margin-right: 5%!important;*/
+  /*width: 0vw!important;*/
+}
+
+@media (max-width: 700px) {
+  #Name {
+    font-size: 42px!Important;
+  }
+}
+
 #quote {
   width: 800px;
   font-size: 20px!Important;
@@ -404,19 +425,7 @@ ul {
 
 
 
-#Name {
-  font-variant: small-caps!important;
-  line-height: 83.33%!important;
-  font-family: 'Minion Pro'!important;
-  font-size: calc(42px + 2.0vw)!important;
-  /*color: #000000;*/
-  font-weight: 950!important;
-  /*text-align: center!important;*/
-  padding: 0!important;
-  letter-spacing:1.6!important;
-  /*margin-right: 5%!important;*/
-  /*width: 0vw!important;*/
-}
+
 
 .article-clean {
   color: #000000;
