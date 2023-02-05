@@ -6,7 +6,13 @@ h1 {
   letter-spacing: .05em;
 }
 
-
+h6 {
+  font-family: 'HelveticaNowTextBlack';
+  color: #007a33;
+  font-weight: 700!important;
+  font-size: xxx-large;
+  letter-spacing: .05em;
+}
 
 
 h2 {
