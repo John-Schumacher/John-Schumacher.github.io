@@ -325,18 +325,18 @@ large:hover {
   }
 }
 
+.activeAAA {
+
+  border-right: 2px solid #D9D9D6!important;
+ 
+ 
+}
+
 .activeAA {
-  /*border-bottom: 2px solid!important #007a33;*/
-  /*border-width: 2px!important;*/
-  /*color: #ffffff;*/
-  /*font-size: 3.75vmin!important;*/
-  /*font-family: 'HelveticaNowMicroBold';*/
-  /*margin-right: 50px!important;*/
-  /*background-color: #007a33;*/
+
   border-bottom: 2px solid #236192!important;
-  /*border-width: 1.5vw!important;*/
+  border-right: 2px solid #D9D9D6!important;
   font-family: 'HelveticaNowTextBlack';
-  /*font-size: larger!important;*/
   padding-bottom:9px;
 }
 
