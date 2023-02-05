@@ -319,7 +319,20 @@ large:hover {
   }
 }
 
-
+.activeA {
+  /*border-bottom: 2px solid!important #007a33;*/
+  /*border-width: 2px!important;*/
+  /*color: #ffffff;*/
+  /*font-size: 3.75vmin!important;*/
+  /*font-family: 'HelveticaNowMicroBold';*/
+  /*margin-right: 50px!important;*/
+  /*background-color: #007a33;*/
+  border-bottom: solid;
+  /*border-width: 1.5vw!important;*/
+  font-family: 'HelveticaNowTextBlack';
+  /*font-size: larger!important;*/
+  padding-bottom:9px;
+}
 
 .activeB {
   /*border-bottom: 2px solid!important #007a33;*/
@@ -333,6 +346,7 @@ large:hover {
   /*border-width: 1.5vw!important;*/
   font-family: 'HelveticaNowTextBlack';
   /*font-size: larger!important;*/
+  padding-bottom:12px;
 }
 
 .activeC {
