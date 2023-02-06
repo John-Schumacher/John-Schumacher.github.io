@@ -1092,7 +1092,7 @@ p {
   font-size: 10px;
   margin-top: -10px;
   list-style-type: "•"!important;
-  /*padding-bottom: 10px;*/
+  padding-bottom: 10px;
   font-weight: 900;
 }
 
