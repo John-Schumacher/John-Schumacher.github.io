@@ -3,16 +3,10 @@ h1 {
   color: #236192;
   font-weight: 700!important;
   font-size: xxx-large;
-  letter-spacing: .05em;
+  letter-spacing: -1px;
 }
 
-h6 {
-  font-family: 'HelveticaNowTextBlack';
-  color: #007a33;
-  font-weight: 700!important;
-  font-size: xxx-large;
-  letter-spacing: .05em;
-}
+
 
 
 h2 {
@@ -287,7 +281,8 @@ small:hover {
   /*border-bottom: 2px!important #007a33!important;*/
   /*border: #007a33!important;*/
   /*outline-color: #007a33;*/
-  font-family: 'HelveticaNowTextBlack';
+  font-family: 'HelveticaNowTextBlack'!important;
+  
 }
 
 large:hover {
@@ -302,7 +297,7 @@ large:hover {
   /*border: #ffffff!important;*/
   /*outline-color: #007a33;*/
   /*font-weight: bolder;*/
-  font-family: 'HelveticaNowTextBlack'!important;
+  font-weight: 800!important;
 }
 
 #PROJECTLINKS {
@@ -1065,7 +1060,7 @@ p {
 }
 
 #Primary_List_Bullet {
-  color: #236192;
+  color: #007A33;
   font-family: 'HelveticaNowTextBlack';
   font-size: 20px;
   margin-top: -10px;
@@ -1076,7 +1071,7 @@ p {
 
 @media (max-width: 700px) {
   #Primary_List_Bullet {
-    color: #236192;
+    color: #007A33;
     font-family: 'HelveticaNowTextBlack';
     font-size: 16px;
     margin-top: -10px;
@@ -1087,7 +1082,7 @@ p {
 }
 
 #Sub_List_BulletB {
-  color: #236192!important;
+  color: #007A33!important;
   font-family: 'HelveticaNowTextBlack';
   font-size: 10px;
   margin-top: -10px;
@@ -1097,7 +1092,7 @@ p {
 }
 
 #Sub_List_BulletBEnd {
-  color: #236192!important;
+  color: #007A33!important;
   font-family: 'HelveticaNowTextBlack';
   font-size: 10px!important;
   margin-top: -10px!important;
