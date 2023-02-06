@@ -746,9 +746,7 @@ a {
   /*color: #007a33;*/
 }
 
-a:hover {
-  color: #007a33;
-}
+
 
 #navbar.opened .navbar-toggle .icon-bar:first-child, #navbar.opened .navbar-toggle .icon-bar:last-child {
   position: absolute;
