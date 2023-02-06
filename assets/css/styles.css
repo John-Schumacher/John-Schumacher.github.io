@@ -300,7 +300,9 @@ large:hover {
   /*border: #ffffff!important;*/
   /*outline-color: #007a33;*/
   /*font-weight: bolder;*/
-  font-weight: bolder!important;
+  transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
 }
 
 #PROJECTLINKS {
