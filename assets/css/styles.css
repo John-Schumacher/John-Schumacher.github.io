@@ -300,9 +300,7 @@ large:hover {
   /*border: #ffffff!important;*/
   /*outline-color: #007a33;*/
   /*font-weight: bolder;*/
-  transform: scale(1.2);
-  -ms-transform: scale(1.2);
-  -webkit-transform: scale(1.2)!important;
+font-family: 'HelveticaNowTextBlack'!important;
 }
 
 #PROJECTLINKS {
