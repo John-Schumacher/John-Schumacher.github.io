@@ -347,6 +347,18 @@ large:hover {
   padding-bottom:9px;
 }
 
+@media (max-width: 700px) {
+  .activeA {
+    padding-bottom:7px!Important;
+  }
+}
+
+@media (max-width: 700px) {
+  .activeB {
+    padding-bottom:0px!Important;
+  }
+}
+
 .activeB {
   /*border-bottom: 2px solid!important #007a33;*/
   /*border-width: 2px!important;*/
