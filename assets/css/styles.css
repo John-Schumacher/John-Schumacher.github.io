@@ -274,33 +274,14 @@ large {
 }
 
 small:hover {
-  /*outline-color: #007a33!important;*/
-  /*text-decoration-line: initial;*/
-  /*color: #007a33!important;*/
-  /*transform: scale(1.10)!important;*/
-  /*font-size: calc(13.2px + 1.2vh)!important;*/
-  /*font-weight: bolder;*/
-  /*border-color: #007a33!important;*/
-  /*border-bottom: 2px!important #007a33!important;*/
-  /*border: #007a33!important;*/
-  /*outline-color: #007a33;*/
-  font-family: 'HelveticaNowTextBlack'!important;
+
+  font-size: calc(11px + 1.2vh)!important;
   
 }
 
 large:hover {
-  /*outline-color: #007a33!important;*/
-  /*text-decoration-line: initial;*/
-  /*color: #ffffff!important;*/
-  /*transform: scale(1.15)!important;*/
-  /*font-size: calc(16.8px + 1.2vw)!important;*/
-  /*': bolder;*/
-  /*border-color: #007a33!important;*/
-  /*border-bottom: 2.25px!important #ffffff!important;*/
-  /*border: #ffffff!important;*/
-  /*outline-color: #007a33;*/
-  /*font-weight: bolder;*/
-font-family: 'HelveticaNowTextBlack'!important;
+
+font-size: calc(14px + 1.3vh)!important;
 }
 
 #PROJECTLINKS {
