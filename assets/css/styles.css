@@ -696,12 +696,13 @@ padding-top:15px;
   #navbar #navbar-menu, #navbar.opened #navbar-menu {
     visibility: visible;
     opacity: 1;
-    position: static;
+    position: flex;
     display: flex;
     height: 100%;
     justify-content: space-between;
     float: right;
     width: 80%;
+    z-index: 10;
   }
 }
 
