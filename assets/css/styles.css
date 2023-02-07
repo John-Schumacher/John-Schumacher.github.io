@@ -365,7 +365,7 @@ font-size: calc(14px + 1.3vh)!important;
   /*margin-top: -50px;*/
   padding-left: .9em;
   /*left: 100%;*/
-  z-index: 1;
+  z-index: 3;
   width: 260px!important;
   align-items:center!important;
   height:40px;
@@ -543,7 +543,7 @@ ul {
   right: 0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
   top: 0;
-  z-index: 3;
+  z-index: 5;
   border: hidden;
   padding-left: 50px;
   font-size: larger;
@@ -559,7 +559,7 @@ ul {
 width: 100%;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
   top: 60px;
-  z-index: 105;
+  z-index: 1;
   border: hidden;
 padding-top:15px;
  
@@ -1393,7 +1393,7 @@ h3 {
   /*right: 0;*/
   /*box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);*/
   /*top: 31px;*/
-  z-index: 2;
+  z-index: 4;
   /*border: hidden;*/
   /*justify-content: space-evenly;*/
   /*margin-top: 60px;*/
