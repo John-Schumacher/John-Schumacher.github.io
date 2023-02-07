@@ -642,7 +642,7 @@ padding-top:15px;
 }
 
 #navbar-menu {
-  position: fixed;
+  position: flex;
   top: var(--navbar-height);
   bottom: 0;
   transition: opacity 0.2s ease-in-out, visibility 0.2s ease-in-out, left 0.2s ease-in-out, right 0.2s ease-in-out;
@@ -710,7 +710,7 @@ padding-top:15px;
     margin: 0;
     padding: 0;
     box-shadow: none;
-    position: static;
+    position: flex;
     flex-direction: row;
     list-style-type: none;
     max-height: max-content;
