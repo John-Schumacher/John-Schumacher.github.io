@@ -260,7 +260,7 @@ h2 {
 }
 
 small {
-  border-bottom: 2px!important #007a33!important;
+  
   font-size: calc(11px + 1.2vh)!important;
   font-family: 'HelveticaNowTextBold';
   letter-spacing: .07em!important;
