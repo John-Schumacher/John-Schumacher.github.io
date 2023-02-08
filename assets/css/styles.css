@@ -701,7 +701,7 @@ font-size: calc(14px + 1.3vh)!important;
 
 @media (max-width: 768px) {
 .breadcrumb:hover {
-    font-size: 15px!important;
+    font-size: 17px!important;
   }
 }
 
@@ -724,7 +724,7 @@ font-size: calc(14px + 1.3vh)!important;
   /*align-content: center;*/
   /*justify-content: stretch!important;*/
   /*width: 90vw;*/
-   font-size: calc(11px + 1.2vh)!important;
+   font-size: 16px;
   font-family: 'HelveticaNowTextBold';
   letter-spacing: .07em!important;
   /*color: #007a33!important;*/
