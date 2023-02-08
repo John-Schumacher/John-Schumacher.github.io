@@ -691,27 +691,17 @@ font-size: calc(14px + 1.3vh)!important;
   /*display: inline-block;*/
   /*justify-content: flex-start;*/
   width: 100px!important;
-  font-size: 24px;
+  font-size: 18px;
 }
 
 
 
-@media (max-width: 768px) {
-.breadcrumb-item {
-    font-size: 18px!important;
-  }
-}
 
-@media (max-width: 768px) {
-.breadcrumb-item:hover {
-    font-size: 19px!important;
-  }
-}
 
 
 .breadcrumb-item:hover {
 
-  font-size: 25px;
+  font-size: 19px;
   
 }
 
@@ -1731,6 +1721,10 @@ nav {
     width: 100%!important;
 }
 
-a:hover {
+small:hover {
     color: #007a33!important;
+}
+
+large:hover{
+    color: #FFFFFF!important;
 }
