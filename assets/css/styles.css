@@ -46,7 +46,7 @@ main {
   --navbar-height: 40px;
   position: fixed;
   height: var(--navbar-height);
-  background-color: #E5E1E6;
+  background-color: #D9D9D6!important;
   left: 0;
   right: 0;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
