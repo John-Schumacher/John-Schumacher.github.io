@@ -1712,3 +1712,9 @@ h3 {
   white-space: nowrap;
   -webkit-overflow-scrolling: touch;
 }
+
+header.nav-scroller.bg-body.shadow-sm.breadcrumb {
+    width: 100%!important;
+}
+
+    width: 100%!important;
