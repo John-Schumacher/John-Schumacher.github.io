@@ -1730,3 +1730,7 @@ header.nav-scroller.bg-body.shadow-sm.breadcrumb {
 nav {
     width: 100%!important;
 }
+
+a:hover {
+    color: #007a33!important;
+}
