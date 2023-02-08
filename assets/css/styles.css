@@ -713,6 +713,7 @@ font-size: calc(14px + 1.3vh)!important;
   /*width: 90vw;*/
   /*font-size: calc(11px + 1.2vw);*/
   /*color: #007a33!important;*/
+  white-space:nowrap;
 }
 
 .breadcrumb:hover {
