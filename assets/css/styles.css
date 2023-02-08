@@ -880,22 +880,7 @@ ul {
    justify-content: space-evenly;
 }
 
-#navbarB {
-  --navbar-height: 40px;
-  position: flex;
-  height: var(--navbar-height);
-  background-color: #D9D9D6;
-  left: 0;
-  right: 0;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
-  top: 60px;
-  z-index: 2;
-  border: hidden;
-  justify-content: space-evenly;
-  width: 100vw;
-  padding-top: 15px;
-  display: block;
-}
+
 
 @media (min-width: 700px) {
   #navbar {
