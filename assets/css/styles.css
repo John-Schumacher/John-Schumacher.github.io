@@ -677,7 +677,7 @@ font-size: calc(14px + 1.3vh)!important;
   text-align: center;
   /*display: inline-block;*/
   /*justify-content: flex-start;*/
-  /*width: 75px;*/
+  width: auto!important;
 }
 
 .breadcrumb-item + .breadcrumb-item::before {
@@ -701,14 +701,14 @@ font-size: calc(14px + 1.3vh)!important;
 
 @media (max-width: 768px) {
 .breadcrumb:hover {
-    font-size: 17px!important;
+    font-size: 19px!important;
   }
 }
 
 
 .breadcrumb:hover {
 
-  font-size: calc(11px + 1.3vh)!important;
+  font-size: 25px;
   
 }
 
@@ -724,30 +724,17 @@ font-size: calc(14px + 1.3vh)!important;
   /*align-content: center;*/
   /*justify-content: stretch!important;*/
   /*width: 90vw;*/
-   font-size: 16px;
+   font-size: 24px;
   font-family: 'HelveticaNowTextBold';
   letter-spacing: .07em!important;
   /*color: #007a33!important;*/
   white-space:nowrap;
+  height:40px!important;
 }
 
 
 
-.breadcrumb:hover {
-  /*display: flex;*/
-  /*list-style-type: none;*/
-  /*overflow: hidden;*/
-  /*position: absolute;*/
-  /*flex-direction: row;*/
-  /*align-items: center;*/
-  /*width: 100%;*/
-  /*float: left;*/
-  /*align-content: center;*/
-  /*justify-content: stretch!important;*/
-  /*width: 90vw;*/
-  /*font-size: 2vmin;*/
-  /*color: #007a33!important;*/
-}
+
 
 a {
   text-decoration: none;
