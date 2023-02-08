@@ -570,6 +570,14 @@ h2 {
   }
 }
 
+@media (max-width: 768px) {
+  small{
+    font-size: 16px!important;
+  }
+}
+
+
+
 small {
   
   font-size: calc(11px + 1.2vh)!important;
