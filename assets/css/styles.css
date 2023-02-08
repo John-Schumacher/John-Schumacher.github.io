@@ -615,7 +615,7 @@ font-size: calc(14px + 1.3vh)!important;
 
   border-bottom: 2px solid #236192!important;
   font-family: 'HelveticaNowTextBlack';
-  padding-bottom:6px;
+  padding-bottom:9px;
 }
 
 .activeA {
@@ -630,18 +630,18 @@ font-size: calc(14px + 1.3vh)!important;
   /*border-width: 1.5vw!important;*/
   font-family: 'HelveticaNowTextBlack';
   /*font-size: larger!important;*/
-  padding-bottom:6px;
+  padding-bottom:9px;
 }
 
 @media (max-width: 700px) {
   .activeA {
-    padding-bottom:3px!important;
+    padding-bottom:4px!important;
   }
 }
 
 @media (max-width: 700px) {
   .activeAA {
-    padding-bottom:3px!important;
+    padding-bottom:4px!important;
   }
 }
 
