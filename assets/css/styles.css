@@ -614,7 +614,6 @@ font-size: calc(14px + 1.3vh)!important;
 .activeAA {
 
   border-bottom: 2px solid #236192!important;
-  font-family: 'HelveticaNowTextBlack';
   padding-bottom:9px;
 }
 
@@ -628,7 +627,6 @@ font-size: calc(14px + 1.3vh)!important;
   /*background-color: #007a33;*/
   border-bottom: 2px solid;
   /*border-width: 1.5vw!important;*/
-  font-family: 'HelveticaNowTextBlack';
   /*font-size: larger!important;*/
   padding-bottom:9px;
 }
