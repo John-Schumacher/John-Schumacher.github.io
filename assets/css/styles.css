@@ -1,4 +1,10 @@
 
+#OBJIMG {
+      border-radius: 100%!important;
+    background: linear-gradient(white, white) padding-box, linear-gradient(to right, #236192, #007a33) border-box;
+    border: 18px solid transparent;
+}
+
 * {
   box-sizing: border-box;
   margin: 0;
