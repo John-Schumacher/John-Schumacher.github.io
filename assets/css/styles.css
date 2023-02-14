@@ -133,8 +133,13 @@ main {
 }
 
 .navbar-link:focus, .navbar-link:hover {
-  color: #ffffff;
-  /*background-color: var(--navbar-bg-contrast);*/
+    color: #d9d9d6;
+    /* background-color: var(--navbar-bg-contrast); */
+}
+
+.navbar-link:focus, li.navbar-item:hover  {
+    color: #d9d9d6!important;
+    border: 3px solid!important;
 }
 
 .navbar-logo {
