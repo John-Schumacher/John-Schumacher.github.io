@@ -274,8 +274,11 @@ main {
 }
 
 .navbar-item {
-  margin: 0.4em;
-  width: 100%;
+    /* margin: 0.4em; */
+    /* width: 100%; */
+    padding-right: 15px;
+    width: min-content;
+    padding-left: 15px;
 }
 
 @media screen and (min-width: 700px) {
@@ -285,16 +288,16 @@ main {
 }
 
 @media screen and (min-width: 700px) {
-  #navbar #navbar-menu, #navbar.opened #navbar-menu {
+#navbar #navbar-menu, #navbar.opened #navbar-menu {
     visibility: visible;
     opacity: 1;
-    position: static;
     display: flex;
     height: 100%;
-    justify-content: stretch;
+    justify-content: center!important;
     float: right;
-    width: 80%;
-  }
+    width: 100%;
+    white-space: nowrap;
+}
 }
 
 @media screen and (min-width: 700px) {
@@ -581,19 +584,7 @@ h2 {
 
 
 
-large {
-  border-bottom: 2px!important #007a33!important;
-  font-size: calc(14px + 1.2vh)!important;
-  font-family: 'HelveticaNowTextBold'!important;
-  letter-spacing: .1em!important;
-}
 
-
-
-large:hover {
-
-font-size: calc(14px + 1.3vh)!important;
-}
 
 #PROJECTLINKS {
   border: 0px!important;
@@ -1753,5 +1744,14 @@ small:hover {
 }
 
 large:hover{
-    color: #FFFFFF!important;
+    color: #D9D9D6!important;
+      border-bottom: 2px!important #D9D9D6!important;
 }
+
+large {
+  border-bottom: 2px!important #007a33!important;
+  font-size: calc(14px + 1.2vh)!important;
+  font-family: 'HelveticaNowTextBold'!important;
+  letter-spacing: .075em!important;
+}
+
