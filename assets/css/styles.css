@@ -1608,6 +1608,9 @@ h3 {
 
 }
 
+
+
+
 .card {
   background-color: #D9D9D6;
   /*margin: 0 0.5em;*/
@@ -1616,7 +1619,7 @@ h3 {
   border-color: #236192;
   border-width: 16.5px;
   border-radius: .25em;
-  width: 550px!important;
+  width: 500px!important;
   max-width: 85vw!important;
   /*max-height: auto;*/
   /*justify-content: space-evenly;*/
@@ -1624,24 +1627,38 @@ h3 {
 }
 
 .card-below {
-  width: 600px!important;
-  max-width: 85vw!important;
+  width: 900px!important;
+  max-width: 85vw!important; 
   margin-top:40px!important;
-  margin-left:auto;
-  margin-right:auto;
 }
 
 .carousel-inner {
-  padding: 1em;
-  /*justify-content: center;*/
+  padding: .5em;
+  justify-content: center;
 }
 
 .carousel-control-prev, .carousel-control-next {
-  background-color: #e1e1e1;
-  width: 7.5vw;
+  background-color: #D9D9D6;
+  width: 5vw;
   position: fixed!important;
-  height: 100vh!important;
+  height: 10vh!important;
+  margin-top: 45vh;
+  opacity:1;
 }
+
+.carousel-control-next {
+  border-top-left-radius:12.5%;
+  border-bottom-left-radius:12.5%;
+}
+
+.carousel-control-prev {
+  border-top-right-radius:12.5%!important;
+  border-bottom-right-radius:12.5%;
+}
+
+
+
+
 
 
 
