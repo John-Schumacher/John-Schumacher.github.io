@@ -1745,6 +1745,12 @@ large {
 }
 
 @media (min-width: 900px) {
+large {
+    text-align: center!important;
+      }
+}
+
+@media (min-width: 900px) {
 large::before {
     display: block!important;
     content: attr(title)!important;
