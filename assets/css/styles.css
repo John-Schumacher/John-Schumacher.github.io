@@ -926,7 +926,7 @@ ul {
 }
 
 .navbar-link:focus, .navbar-link:hover {
-  /*color: #ffffff;*/
+  color: #ffffff;
   /*background-color: var(--navbar-bg-contrast);*/
 }
 
