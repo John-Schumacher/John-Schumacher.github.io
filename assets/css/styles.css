@@ -132,15 +132,9 @@ main {
   /*align-items: center;*/
 }
 
-.navbar-link:focus, .navbar-link:hover {
-    color: #d9d9d6;
-    /* background-color: var(--navbar-bg-contrast); */
-}
 
-.navbar-link:focus, li.navbar-item:hover  {
-    color: #d9d9d6!important;
-    border: 3px solid!important;
-}
+
+
 
 .navbar-logo {
   /*background-color: var(--navbar-text-color-focus);*/
@@ -1748,14 +1742,14 @@ small:hover {
     color: #007a33;
 }
 
-large:hover{
+large:focus, large:hover{
     color: #D9D9D6!important;
-      border-bottom: 2px!important #D9D9D6!important;
+      border-bottom: solid!important 2px!important #D9D9D6!important;
 }
 
 large {
-  border-bottom: 2px!important #007a33!important;
-  font-size: calc(14px + 1.2vh)!important;
+
+  font-size: calc(14px + 1.1vh)!important;
   font-family: 'HelveticaNowTextBold'!important;
   letter-spacing: .075em!important;
 }
