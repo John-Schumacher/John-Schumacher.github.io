@@ -280,13 +280,13 @@ main {
    
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   .navbar-toggle {
     display: none;
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
 #navbar #navbar-menu, #navbar.opened #navbar-menu {
     visibility: visible;
     opacity: 1;
@@ -299,7 +299,7 @@ main {
 }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   #navbar .navbar-links, #navbar.opened .navbar-links {
     margin: 0;
     padding: 0;
@@ -313,7 +313,7 @@ main {
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   #navbar .navbar-link:last-child {
     margin-right: 0;
   }
