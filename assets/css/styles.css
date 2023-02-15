@@ -639,7 +639,7 @@ h2 {
   }
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   .activeB {
     padding-bottom:0px!Important;
   }
@@ -994,13 +994,13 @@ ul {
   width: 60px;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   .navbar-toggle {
     display: none;
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   #navbar #navbar-menu, #navbar.opened #navbar-menu {
     visibility: visible;
     opacity: 1;
@@ -1013,7 +1013,7 @@ ul {
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   #navbar .navbar-links, #navbar.opened .navbar-links {
     margin: 0;
     padding: 0;
@@ -1027,7 +1027,7 @@ ul {
   }
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 900px) {
   #navbar .navbar-link:last-child {
     margin-right: 0;
   }
@@ -1077,6 +1077,7 @@ a {
 #navbar.opened .navbar-links {
   padding: 1em;
   max-height: none;
+      white-space:nowrap;
 }
 
 #emailtext {
