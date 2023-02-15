@@ -1737,6 +1737,14 @@ small:hover {
     color: #007a33;
 }
 
+large {
+    font-size: calc(14px + 1.1vh)!important;
+    font-family: 'HelveticaNowTextBold';
+    letter-spacing: .075em!important;
+    display: inline-block;
+}
+
+@media (min-width: 900px) {
 large::before {
     display: block!important;
     content: attr(title)!important;
@@ -1745,15 +1753,13 @@ large::before {
     overflow: hidden!important;
     visibility: hidden!important;
 }
+}
 
+@media (min-width: 900px) {
 large:focus, large:hover{
 /* border-bottom: solid!important; */
     font-family: 'HELVETICANOWTEXTBLACK'!important;
 }
-
-large {
-    font-size: calc(14px + 1.1vh)!important;
-    font-family: 'HelveticaNowTextBold';
-    letter-spacing: .075em!important;
-    display: inline-block;
 }
+
+
