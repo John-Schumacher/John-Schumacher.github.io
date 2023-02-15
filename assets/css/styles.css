@@ -925,10 +925,7 @@ ul {
   font-size: 3.5vmin;
 }
 
-.navbar-link:focus, .navbar-link:hover {
-  color: #ffffff;
-  /*background-color: var(--navbar-bg-contrast);*/
-}
+
 
 .navbar-toggle {
   cursor: pointer;
