@@ -7,4 +7,5 @@
 	url(../../assets/fonts/MinionPro-BoldCnDisp.svg) format('svg');
 	font-weight: 400;
 	font-style: normal;
+	font-display: auto;
 }
