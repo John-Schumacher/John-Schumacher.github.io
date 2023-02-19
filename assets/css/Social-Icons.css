@@ -1,12 +1,12 @@
 .social-icons {
-  color: #0a0301!important;
+  color: #231f20!important;
   text-align: center;
 }
 
 .social-icons i {
   font-size: calc(75px + 1.5vw);
   display: inline-block;
-  color: #0a0301!important;
+  color: #231f20!important;
   width: 60px;
   height: 60px;
   text-align: center;
@@ -17,7 +17,7 @@
 }
 
 #soc:hover {
-  color: #426c4f!important;
+  color: #007a33!important;
   transform: scale(1.2);
 }
 
@@ -38,7 +38,7 @@
 }
 
 #SocActive {
-  color: #003675!important;
+  color: #236192!important;
 }
 
 #contactMethod {
