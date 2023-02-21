@@ -11,11 +11,7 @@
   padding: 0;
 }
 
-body {
-  /*height: 100vh;*/
-  /*font-family: Arial, Helvetica, sans-serif;*/
-  /*line-height: 1.6;*/
-}
+
 
 main {
   min-height: 100vh;
@@ -76,26 +72,10 @@ main {
   }
 }
 
-@media (max-width: 700px) {
-  #navbarB {
-    /*--navbar-height: 40px;*/
-    /*font-size: x-small!important;*/
-  }
-}
 
-@media (min-width: 768px) {
-  #navbarB {
-    /*padding-right: 90px;*/
-    /*padding-left: 180px;*/
-  }
-}
 
-@media (min-width: 768px) {
-  #navbar {
-    /*padding-left: 180px;*/
-    /*padding-right: 90px;*/
-  }
-}
+
+
 
 .navbar-container {
   display: flex;
@@ -117,32 +97,14 @@ main {
   font-size: 3vmin;
 }
 
-.home-link:focus, .home-link:hover {
-  /*color: var(--navbar-text-color-focus);*/
-}
-
-.navbar-link {
-  /*display: flex;*/
-  /*justify-content: stretch;*/
-  /*width: 200px;*/
-  /*padding: 0.4em 0.8em;*/
-  /*border-radius: 5px;*/
-  /*position: relative;*/
-  /*flex-direction: row;*/
-  /*align-items: center;*/
-}
 
 
 
 
 
-.navbar-logo {
-  /*background-color: var(--navbar-text-color-focus);*/
-  /*border-radius: 50%;*/
-  /*width: 30px;*/
-  /*height: 30px;*/
-  /*margin-right: 0.5em;*/
-}
+
+
+
 
 .navbar-toggle {
   cursor: pointer;
@@ -165,9 +127,7 @@ main {
   background-color: #fff;
 }
 
-.navbar-toggle:focus .icon-bar, .navbar-toggle:hover .icon-bar {
-  /*background-color: var(--navbar-text-color-focus);*/
-}
+
 
 #navbar.opened .navbar-toggle .icon-bar:first-child, #navbar.opened .navbar-toggle .icon-bar:last-child {
   position: absolute;
@@ -346,7 +306,7 @@ h2 {
 
 #PageBody {
   display: flex;
-  flex-directuib: column;
+  flex-direction: column;
   height: 100vh;
 }
 
@@ -484,17 +444,8 @@ h2 {
   }
 }
 
-@media (min-width:728px) {
-  .container, .container-md, .container-sm {
-    /*max-width: 720px;*/
-  }
-}
 
-@media (min-width:992px) {
-  .container, .container-lg, .container-md, .container-sm {
-    /*max-width: 960px;*/
-  }
-}
+
 
 #general_image:hover {
   opacity: 1;
@@ -773,10 +724,6 @@ ul {
   }
 }
 
-.article-clean .intro {
-  /*font-size: 16px;*/
-  /*margin: 0;*/
-}
 
 .article-clean .text p {
   margin-bottom: 20px;
@@ -1033,9 +980,7 @@ ul {
   }
 }
 
-a {
-  /*color: #007a33;*/
-}
+
 
 
 
@@ -1136,8 +1081,7 @@ a {
   line-break: anywhere;
 }
 
-#LinkedIN[target="_blank"] {
-}
+
 
 .brmedium {
   display: block;
@@ -1688,7 +1632,7 @@ h3 {
 
 @media (max-width: 700px) {
   .card-text {
-    margin-top: 10px!important
+    margin-top: 10px!important;
     line-height: 1.5!important;
     letter-spacing: .075em!important;
     font-family: 'HelveticaNowTextRegular';
