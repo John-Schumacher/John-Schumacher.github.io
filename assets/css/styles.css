@@ -892,7 +892,7 @@ ul {
   height: 3px;
   margin: 1px;
   transition: background-color 0.2s ease-in-out, transform 0.2s ease-in-out, opacity 0.2s ease-in-out;
-  background-color: #fff;
+  background-color: #fff!important;
 }
 
 .navbar-toggle:focus .icon-bar, .navbar-toggle:hover .icon-bar {
