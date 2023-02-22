@@ -298,7 +298,7 @@ h2 {
   font-size: 20px!Important;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   h2 {
     font-size: 16px!Important;
   }
@@ -396,7 +396,7 @@ h2 {
   /*width: 0vw!important;*/
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   #Name {
     font-size: 42px!Important;
   }
@@ -1089,6 +1089,7 @@ ul {
 }
 
 #TitleParagraph {
+ max-width:750px;
   line-height: 1.9;
   letter-spacing: .05em;
   font-family: 'HelveticaNowTextRegular';
@@ -1096,7 +1097,7 @@ ul {
   margin-top: 20px;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   #TitleParagraph {
     line-height: 1.5!important;
     letter-spacing: .075em!important;
