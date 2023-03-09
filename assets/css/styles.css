@@ -37,7 +37,7 @@ text-align: center!important;
 }
 
 #colb{
-   width: 900px;
+   width: 750px;
  }
  
  @media (max-width: 900px) {
@@ -368,7 +368,7 @@ h2 {
 }
 
 #centeringobjective {
-    width: 100vw;
+    width: 800px;
     padding-top: 12.5vh!important;
     position: absolute;
     top: 40%;
@@ -379,7 +379,7 @@ h2 {
     margin-top: 80px!Important;
 }
 
-@media (max-width: 700px) {
+@media (max-width: 800px) {
   #centeringobjective {
     /*margin-top: -120px;*/
     width: 90vw;
@@ -460,19 +460,15 @@ h2 {
 }
 
 #quote {
-  width: 800px;
+ 
   font-size: 20px!Important;
   color: #231f20;
   font-weight: 300;
-  /*margin-left: 5%;*/
-  /*margin-right: 5%;*/
+
   /*max-width: 500px;*/
-  -webkit-transform: translate(-50%, -50%);
-  -ms-transform: translate(-50%, -50%);
-  transform: translate(-50%, -50%);
   position: relative;
-  top: 50%;
-  left: 50%;
+  /*top: 50%;*/
+  /*left: 50%;*/
   font-family: 'HelveticaNowTextRegular'!important;
 }
 
