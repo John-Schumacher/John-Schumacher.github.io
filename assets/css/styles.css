@@ -1363,7 +1363,7 @@ p {
   color: #007A33;
   font-family: 'HelveticaNowTextBlack';
   font-size: 20px;
-  list-style-type: "—";
+  list-style-type: "—"!important;
   /* margin-right: 100px!important; */
   padding-bottom: 10px;
   margin-left: -25px!important;
