@@ -1312,12 +1312,10 @@ p {
 
 #Primary_List_Text {
 
-  letter-spacing: .05em!important;
+ 
   font-family: 'HelveticaNowTextMedium'!important;
-  font-weight: normal;
   color: #231f20!important;
   font-size: 20px;
-  /*width: initial;*/
   padding-left: 20px!important;
   display: flex;
 
