@@ -1311,42 +1311,19 @@ p {
 }
 
 #Primary_List_Text {
-  /*line-height: 3!important;*/
+
   letter-spacing: .05em!important;
-  font-family: 'HelveticaNowTextRegular'!important;
-  /*font-size: 20px!important;*/
-  /*padding-top: 0px!important;*/
-  /*margin-top: -10px;*/
-  /*padding-left: 25px!important;*/
-  /*padding-bottom: 5px!important;*/
+  font-family: 'HelveticaNowTextMedium'!important;
   font-weight: normal;
   color: #231f20!important;
   font-size: 20px;
   /*width: initial;*/
-  padding: 5px!important;
+  padding-left: 20px!important;
   display: flex;
-  margin-left: 5px;
+
 }
 
-@media (max-width: 700px) {
-  #Primary_List_Text {
-    /*line-height: 3!important;*/
-    letter-spacing: .075em!important;
-    font-family: 'HelveticaNowTextRegular'!important;
-    /*font-size: 16px!important;*/
-    /*padding-top: 0px!important;*/
-    /*margin-top: -10px;*/
-    /*padding-left: 25px!important;*/
-    /*padding-bottom: 5px!important;*/
-    font-weight: normal;
-    color: #231f20!important;
-    font-size: 16px;
-    /*width: initial;*/
-    padding: 0px!important;
-    display: flex;
-    margin-left: 20px;
-  }
-}
+
 
 #Sub_List_Text {
   line-height: 1.75!important;
