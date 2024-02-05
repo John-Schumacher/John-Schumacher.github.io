@@ -1360,10 +1360,8 @@ p {
   color: #007A33;
   font-family: 'HelveticaNowTextBlack';
   font-size: 20px!important;
-  list-style-type: "—"!important;
-  /* margin-right: 100px!important; */
+  list-style-type: "—"!important
   padding-bottom: 10px;
-  margin-left: -25px!important;
   line-height: 1.25!important;
   padding-left: 15px!important;
 
