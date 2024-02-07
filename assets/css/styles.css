@@ -1167,7 +1167,8 @@ ul {
  }
 
 #TitleParagraph {
- max-width:750px;
+  color: #231f20!important;
+  max-width:750px;
   line-height: 1.9;
   letter-spacing: .05em;
   font-family: 'HelveticaNowTextRegular';
@@ -1177,6 +1178,7 @@ ul {
 
 @media (max-width: 900px) {
   #TitleParagraph {
+    color: #231f20!important;
     line-height: 1.5!important;
     letter-spacing: .075em!important;
     font-family: 'HelveticaNowTextRegular';
