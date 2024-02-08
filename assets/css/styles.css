@@ -642,7 +642,11 @@ h2 {
   padding-bottom:9px;
 }
 
+.activeAA {
 
+  border-bottom: 2px solid #236192!important;
+  padding-bottom:9px;
+}
 
 @media (max-width: 700px) {
   .activeAA {
