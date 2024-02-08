@@ -1329,9 +1329,8 @@ p {
   font-family: 'HelveticaNowTextBlack';
   font-size: 20px;
   list-style-type: "—";
-  /*margin-right: 100px!important;*/
-    margin-left: -10px!important;
   padding-left: 20px!important;
+  margin-bottom:10px;
 }
 
 
