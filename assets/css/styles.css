@@ -616,10 +616,16 @@ h2 {
 
 
 
-.activeAA {
+.activeAB {
 
-  border-bottom: 2px solid #236192!important;
+  border-bottom: 2px solid #007a33!important;
   padding-bottom:9px;
+}
+
+@media (max-width: 700px) {
+  .activeAB {
+    padding-bottom:4px!important;
+  }
 }
 
 .activeA {
