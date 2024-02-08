@@ -636,11 +636,7 @@ h2 {
   padding-bottom:9px;
 }
 
-@media (max-width: 700px) {
-  .activeA {
-    padding-bottom:4px!important;
-  }
-}
+
 
 @media (max-width: 700px) {
   .activeAA {
@@ -648,11 +644,7 @@ h2 {
   }
 }
 
-@media (max-width: 900px) {
-  .activeB {
-    padding-bottom:0px!Important;
-  }
-}
+
 
 
 
@@ -1528,6 +1520,13 @@ border-width: 2px!important;
   /*background-color: #007a33;*/
   border-bottom: solid;
   border-width: 2px!important; 
+  padding-bottom:13px!Important;
   /*font-size: larger!important;*/
 
+}
+
+@media (max-width: 900px) {
+  .activeB {
+    padding-bottom:0px!Important;
+  }
 }
