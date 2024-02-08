@@ -695,11 +695,7 @@ h2 {
 
 
 
-.breadcrumb-item:hover {
 
-  font-size: 19px;
-  
-}
 
 .breadcrumb {
   /*display: flex;*/
@@ -1488,6 +1484,8 @@ nav {
 
 small:hover {
     color: #007a33;
+    border-bottom: solid;
+    border-width: 2px!important; 
 }
 
 large {
