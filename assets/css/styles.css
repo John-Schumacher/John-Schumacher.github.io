@@ -342,9 +342,14 @@ h1 {
   color: #236192;
   font-weight: 700!important;
   font-size: xxx-large;
-  letter-spacing: -1px;
 }
 
+h4 {
+  font-family: 'HelveticaNowTextBlack';
+  color: #007a33;
+  font-weight: 700!important;
+  font-size: xx-large;
+}
 
 
 
@@ -1260,16 +1265,7 @@ margin-left:1em;
 
 
 
-h4 {
-  font-family: 'HelveticaNowTextBlack';
-  font-size: xx-large;
-  color: #007a33;
-  letter-spacing: .05em;
-  margin-top: 25px;
-  /*border-bottom: solid;*/
-  /*border-width: 10px;*/
-  /*height: 49px;*/
-}
+
 
 h5 {
   font-family: 'HelveticaNowTextBlack';
