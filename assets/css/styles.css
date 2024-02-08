@@ -1220,6 +1220,15 @@ p {
   }
 }
 
+#primarylistResearch {
+
+  font-family: 'HelveticaNowTextRegular'!important;
+  padding-left: 2rem!important;
+
+}
+
+
+
 #primarylist {
 
   font-family: 'HelveticaNowTextRegular'!important;
@@ -1290,12 +1299,10 @@ p {
 #Primary_List_Text {
 
     font-family: 'HelveticaNowTextRegular'!important;
-    padding-top: 10px!important;
-    padding-bottom: 10px!important;
     font-weight: normal;
     color: #231f20!important;
     display: flex;
-    margin-left: 5px;
+    margin-left: 15px;
 
 }
 
@@ -1378,82 +1385,33 @@ p {
 }
 
 #Primary_List_Bullet1 {
-  color: #007a33;
+  color: #231f20;
   font-family: 'HelveticaNowTextBlack';
-  font-size: 20px;
-  margin-top: -10px;
   list-style-type: "#1";
-  /*margin-right: 100px!important;*/
-  padding-bottom: 15px;
+  padding-bottom: 1rem;
 }
 
-#Primary_List_Bullet1:hover {
-  font-weight: bolder!important;
-}
 
-#Primary_List_Bullet2:hover {
-  font-weight: bolder!important;
-}
 
-#Primary_List_Bullet3:hover {
-  font-weight: bolder!important;
-}
 
-@media (max-width: 700px) {
-  #Primary_List_Bullet1 {
-    color: #007a33;
-    font-family: 'HelveticaNowTextBlack';
-    font-size: 16px;
-    margin-top: -10px;
-    list-style-type: "#1";
-    /*margin-right: 100px!important;*/
-    padding-bottom: 15px;
-  }
-}
 
 #Primary_List_Bullet2 {
-  color: #007a33;
+  color: #231f20;
   font-family: 'HelveticaNowTextBlack';
-  font-size: 20px;
-  margin-top: -10px;
   list-style-type: "#2";
-  /*margin-right: 100px!important;*/
-  padding-bottom: 15px;
+  padding-bottom: 1rem;
 }
 
-@media (max-width: 700px) {
-  #Primary_List_Bullet2 {
-    color: #007a33;
-    font-family: 'HelveticaNowTextBlack';
-    font-size: 16px;
-    margin-top: -10px;
-    list-style-type: "#2";
-    /*margin-right: 100px!important;*/
-    padding-bottom: 15px;
-  }
-}
+
 
 #Primary_List_Bullet3 {
-  color: #007a33;
+  color: #231f20;
   font-family: 'HelveticaNowTextBlack';
-  font-size: 20px;
-  margin-top: -10px;
   list-style-type: "#3";
-  /*margin-right: 100px!important;*/
-  /*padding-bottom: 15px;*/
+  padding-bottom: 1rem;
 }
 
-@media (max-width: 700px) {
-  #Primary_List_Bullet3 {
-    color: #007a33;
-    font-family: 'HelveticaNowTextBlack';
-    font-size: 16px;
-    margin-top: -10px;
-    list-style-type: "#3";
-    /*margin-right: 100px!important;*/
-    /*padding-bottom: 15px;*/
-  }
-}
+
 
 h4 {
   font-family: 'HelveticaNowTextBlack';
