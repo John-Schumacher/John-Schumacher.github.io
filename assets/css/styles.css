@@ -1156,19 +1156,32 @@ ul {
    }
  }
 
+ #hh1 {
+  color: #231f20!important;
+
+  max-width:750px;
+
+  font-family: 'HelveticaNowTextBold'!important;
+  font-size: 20px;
+  margin-top: 20px;
+}
+
+@media (max-width: 900px) {
+  #hh1 {
+    font-size: 16px!important;
+  }
+}
+
 #TitleParagraph {
   color: #231f20!important;
   max-width:750px;
-
-  font-family: 'HelveticaNowTextRegular';
+  font-family: 'HelveticaNowTextRegular'!important;
   font-size: 20px;
   margin-top: 20px;
 }
 
 @media (max-width: 900px) {
   #TitleParagraph {
-    color: #231f20!important;
-    font-family: 'HelveticaNowTextRegular';
     font-size: 16px!important;
   }
 }
@@ -1461,7 +1474,6 @@ h3 {
   font-family: 'HelveticaNowTextBlack';
   font-size: 20px!important;
   color: #231f20;
-  text-align: center!important;
 }
 
 @media (max-width: 700px) {
