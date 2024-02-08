@@ -1482,7 +1482,7 @@ nav {
     width: 100%!important;
 }
 
-small:hover {
+small:focus, small:hover {
     color: #007a33;
     border-bottom: solid;
     border-width: 2px!important; 
@@ -1511,12 +1511,12 @@ large::before {
 }
 }
 
-@media (min-width: 900px) {
+
 large:focus, large:hover{
 border-bottom: solid!important;
 border-width: 2px!important; 
 }
-}
+
 
 .activeB {
   /*border-bottom: 2px solid!important #007a33;*/
