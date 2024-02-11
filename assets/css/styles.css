@@ -1540,3 +1540,31 @@ border-width: 2px!important;
     padding-bottom:0px!Important;
   }
 }
+
+#workbuffer {
+  color: #231f20!important;
+  padding-top: 100px!important;
+  font-size: calc(12px + 1.15vw)!important;
+  letter-spacing: .05em!important;
+  font-family: 'HelveticaNowMicroBold';
+  /*padding-bottom: 50px;*/
+}
+
+@media screen and (max-width: 700px) {
+  #emailtext {
+    /*font-size: x-large!important;*/
+    color: #231f20!important;
+    padding-top: 300px!important;
+    /*font-size: calc(14px + 1.15vw);*/
+    /*letter-spacing: .1em;*/
+  }
+}
+
+@media screen and (max-width: 456px) {
+  #emailtext {
+    /*color: #231f20;*/
+    padding-top: 200px!important;
+    font-size: calc(10px + 1.15vw)!important;
+    /*letter-spacing: .1em;*/
+  }
+}
