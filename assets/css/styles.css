@@ -1295,16 +1295,12 @@ h3 {
   font-family: 'HelveticaNowTextBlack';
   font-size: 17px!important;
   color: #007A33;
+  padding-top:10px;
+  padding-bottom: 0px;
+  margin-bottom:2px;
 }
 
-@media (max-width: 700px) {
-  h3 {
-  font-family: 'HelveticaNowTextBlack';
-  font-size: 16px!important;
-  color: #231f20;
-    text-align: center!important;
-  }
-}
+
 
 
 
@@ -1433,16 +1429,12 @@ h3 {
 
   font-family: 'HelveticaNowTextRegular'!important;
   font-size: 20px!important;
-  margin-top: 10px!important;
-  border-top: medium solid #231F20;
-  
+  margin-bottom: 40px!important;
+
 }
 
 @media (max-width: 700px) {
   .card-text {
-    margin-top: 10px!important;
-
-    font-family: 'HelveticaNowTextRegular';
     font-size: 16px!important;
   }
 }
