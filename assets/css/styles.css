@@ -688,7 +688,7 @@ h2 {
   text-align: center;
   /*display: inline-block;*/
   /*justify-content: flex-start;*/
-  width: 100px!important;
+  
   font-size: 18px;
 }
 
@@ -713,7 +713,6 @@ h2 {
   /*width: 90vw;*/
    
   font-family: 'HelveticaNowTextBold';
-  letter-spacing: .07em!important;
   /*color: #007a33!important;*/
   white-space:nowrap;
   height:40px!important;
