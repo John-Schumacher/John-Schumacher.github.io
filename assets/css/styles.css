@@ -1504,11 +1504,13 @@ large::before {
 }
 }
 
-
+@media (min-width: 900px) {
 large:focus, large:hover{
 border-bottom: solid!important;
 border-width: 2px!important; 
-}
+}}
+
+
 
 
 .activeB {
