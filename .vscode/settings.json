@@ -3,5 +3,7 @@
     "prettier.vueIndentScriptAndStyle": true,
     "prettier.singleAttributePerLine": true,
     "prettier.insertPragma": true,
-    "prettier.bracketSameLine": true
+    "prettier.bracketSameLine": true,
+    "highlight-matching-tag.highlightFromContent": true,
+    "highlight-matching-tag.highlightSelfClosing": true
 }
